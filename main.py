@@ -1,4 +1,4 @@
-print("Hello GitHub!")
+print("Hello from main!")
 print("my secend git commmit")
 print("this line was added on github")
 print("testing git fetch!")
